@@ -33,23 +33,23 @@
             @endif
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <!-- Main -->
-                <div class="grid grid-flow-col grid-rows-2 grid-cols-3 gap-8">
-                    <div class="scale-100 transform rotate-12">
+                <div class="grid grid-flow-col grid-rows-2 grid-cols-3 gap-12">
+                    <div class="rotate-12 border-2 bg-white">
                         <img src="/images/thumbs/01.jpg" alt="SP" loading="lazy">
                     </div>
-                    <div class="scale-120 transform -rotate-12 translate-x-2 translate-y-15">
+                    <div class="scale-y-125 -rotate-12 translate-x-2 translate-y-15 border-2 bg-white">
                         <img src="/images/thumbs/02.jpg" alt="WIESBADEN" loading="lazy">
                     </div>
-                    <div class="scale-120 transform rotate-6 translate-y-11">
+                    <div class="rotate-6 translate-x-10 border-x-2 border-2 bg-white">
                         <img src="/images/thumbs/03.jpg" alt="SORRENTO" loading="lazy">
                     </div>
-                    <div class="scale-100 transform -rotate-45 translate-y-24">
+                    <div class="-rotate-45 translate-y-20 border-x-2 border-2 bg-white">
                         <img src="/images/thumbs/04.jpg" alt="RJ" loading="lazy">
                     </div>
-                    <div class="scale-100 transform -rotate-6 translate-x-200 translate-y-4">
+                    <div class="-rotate-6 translate-x-200 translate-y-4 border-2 bg-white">
                         <img src="/images/thumbs/05.jpg" alt="POSITANO" loading="lazy">
                     </div>
-                    <div class="scale-100 transform rotate-6 translate-x-20 translate-y-4">
+                    <div class="rotate-6 translate-x-10 translate-y-4 border-2 bg-white">
                         <img src="/images/thumbs/06.jpg" alt="FRANKFURT" loading="lazy">
                     </div>
                 </div>             
